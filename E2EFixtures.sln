@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2EFixtures", "E2EFixtures\E2EFixtures.csproj", "{99A6B386-D144-412C-8C58-DBA9C957E475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2EFixtures.Tests", "tests\E2EFixtures.Tests\E2EFixtures.Tests.csproj", "{4D001C9C-BD69-4DF9-9B0C-AA9E4E5A7F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A6B386-D144-412C-8C58-DBA9C957E475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A6B386-D144-412C-8C58-DBA9C957E475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A6B386-D144-412C-8C58-DBA9C957E475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A6B386-D144-412C-8C58-DBA9C957E475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D001C9C-BD69-4DF9-9B0C-AA9E4E5A7F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D001C9C-BD69-4DF9-9B0C-AA9E4E5A7F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D001C9C-BD69-4DF9-9B0C-AA9E4E5A7F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D001C9C-BD69-4DF9-9B0C-AA9E4E5A7F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
